@@ -1,37 +1,33 @@
 <div align="center">
     <h1>KryKom</h1>
+    <p>/krykom/</p>
+    <div>
+        <a href="#about">about</a>,
+        <a href="#projects">projects</a>
+    </div>
 </div>
+
+## About
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KryKomDev&layout=pie&theme=radical)
+
+Huge fan of .NET ecosystem and Java, still learning though...
+I also require programatic ways to do anything! 
 
 ## Projects
 
-### NeoKolors
-
-<a href="https://github.com/KryKomDev/NeoKolors/stargazers"><img src="https://img.shields.io/github/stars/KryKomDev/NeoKolors?colorA=292A2B&colorB=1a8fe3&style=for-the-badge"></a>
-![GitHub License](https://img.shields.io/github/license/KryKomDev/NeoKolors?colorA=292A2B&colorB=6610F2&style=for-the-badge)
+### [NeoKolors](https://github.com/KryKomDev/NeoKolors)
 
 A C# library that aims to simplify working with terminal emulators in every way.
 
----
-
-### HasFlagExtension
-
-<a href="https://github.com/KryKomDev/HasFlagExtension/stargazers"><img src="https://img.shields.io/github/stars/KryKomDev/HasFlagExtension?colorA=292A2B&colorB=1a8fe3&style=for-the-badge"></a>
-![GitHub License](https://img.shields.io/github/license/KryKomDev/HasFlagExtension?colorA=292A2B&colorB=6610F2&style=for-the-badge)
-<a href="https://www.nuget.org/packages/HasFlagExtension.Generator"><img src="https://img.shields.io/nuget/v/HasFlagExtension.Generator?color=D11149&amp;style=for-the-badge&amp;labelColor=292A2B" alt="NuGet" /></a>
-<img src="https://img.shields.io/nuget/dt/HasFlagExtension.Generator?color=F17105&amp;style=for-the-badge&amp;labelColor=292A2B" alt="NuGet Downloads" />
-<img src="https://img.shields.io/badge/.NET-Standard2.0-E6C229?style=for-the-badge&amp;labelColor=292A2B" alt=".NET Standard" />
+### [HasFlagExtension.Generator](https://github.com/KryKomDev/HasFlagExtension)
 
 A Roslyn source generator for creating HasFlag extension methods and properties.
 
----
-
-### Metriks
-
-<a href="https://github.com/KryKomDev/Metriks/stargazers"><img src="https://img.shields.io/github/stars/KryKomDev/Metriks?colorA=292A2B&colorB=1a8fe3&style=for-the-badge"></a>
-![GitHub License](https://img.shields.io/github/license/KryKomDev/Metriks?colorA=292A2B&colorB=6610F2&style=for-the-badge)
-<a href="https://www.nuget.org/packages/Metriks"><img src="https://img.shields.io/nuget/v/Metriks?color=D11149&amp;style=for-the-badge&amp;labelColor=292A2B" alt="NuGet" /></a>
-<img src="https://img.shields.io/nuget/dt/Metriks?color=F17105&amp;style=for-the-badge&amp;labelColor=292A2B" alt="NuGet Downloads" />
-![.NET Standard](https://img.shields.io/badge/.NET-Standard2.0-E6C229?style=for-the-badge&labelColor=292A2B)
-![.NET 5](https://img.shields.io/badge/.NET-5.0-00D91D?style=for-the-badge&labelColor=292A2B)
+### [Metriks](https://github.com/KryKomDev/Metriks)
 
 A C# library for dynamic multidimensional arrays.
+
+### [Implyzer](https://github.com/KryKomDev/Implyzer)
+
+A Roslyn analyzer for restraining interface implementations and other related things.

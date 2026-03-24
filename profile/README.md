@@ -3,7 +3,8 @@
     <p>/krykom/</p>
     <div>
         <a href="#about">about</a>,
-        <a href="#projects">projects</a>
+        <a href="#projects">projects</a>,
+        <a href="#templates">templates</a>
     </div>
 </div>
 
@@ -29,3 +30,11 @@ A C# library for dynamic multidimensional arrays.
 ### [Implyzer](https://github.com/KryKomDev/Implyzer)
 
 A Roslyn analyzer for restraining interface implementations and other related things.
+
+## Templates
+
+### SOČ thesis templates
+
+I have also created templates for the czech SOČ (středoškolská odborná činnost) thesis.
+The template is available for [LaTeX](https://github.com/KryKomDev/Tex-Soc-Template) 
+and for [Typst](https://github.com/KryKomDev/Typst-Soc-Template).

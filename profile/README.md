@@ -9,8 +9,6 @@
 
 ## About
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KryKomDev&layout=pie&theme=radical)
-
 Huge fan of .NET ecosystem and Java, still learning though...
 I also require programatic ways to do anything! 
 

@@ -2,8 +2,8 @@
     <h1>KryKom</h1>
     <p>/krykom/</p>
     <div>
-        <a href="#about">about</a>,
-        <a href="#projects">projects</a>,
+        <a href="#about">about</a> •
+        <a href="#projects">projects</a> •
         <a href="#templates">templates</a>
     </div>
 </div>

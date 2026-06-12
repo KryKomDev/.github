@@ -38,3 +38,7 @@ A Roslyn analyzer for restraining interface implementations and other related th
 I have also created templates for the czech SOČ (středoškolská odborná činnost) thesis.
 The template is available for [LaTeX](https://github.com/KryKomDev/Tex-Soc-Template) 
 and for [Typst](https://github.com/KryKomDev/Typst-Soc-Template).
+
+### [Dokfx](https://github.com/KryKomDev/Dokfx)
+
+Dokfx is a beautiful, modern, Material Design 3 inspired [docfx](https://github.com/dotnet/docfx) documentation generator theme.

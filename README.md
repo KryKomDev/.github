@@ -4,7 +4,7 @@
       <source srcset="https://raw.githubusercontent.com/KryKomDev/.github/main/assets/KRYKOM-oneline-b-tight.png" width="70%" alt="Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img src="https://raw.githubusercontent.com/KryKomDev/.github/main/assets/KRYKOM-oneline-masked-w.png" width="70%" alt="Logo"/>
     </picture>
-    <p>/krykom/</p>
+    <p style="margin-top: 1.5em">/krykom/</p>
     <div>
         <a href="#about">about</a> •
         <a href="#projects">projects</a> •

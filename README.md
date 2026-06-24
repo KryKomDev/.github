@@ -1,12 +1,3 @@
-<style>
-
-a {
-    color: #999999;
-    text-decoration: underline;
-}
-
-</style>
-
 <div align="center">
     <picture>
       <source srcset="https://raw.githubusercontent.com/KryKomDev/.github/main/assets/KRYKOM-oneline-w-tight.png" width="70%" alt="Logo" media="(prefers-color-scheme: dark)"/>
